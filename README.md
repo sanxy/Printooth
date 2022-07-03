@@ -9,6 +9,8 @@
 ## Requirements
 * Java 8
 * Latest version of Android SDK and Android Build Tools
+* Kotlin
+* View Binding
 
 ## Screenshots
 <img height=550 width=275 src="https://user-images.githubusercontent.com/15203737/74158109-c61e7680-4c19-11ea-9e46-022e00cd96fe.jpg" hspace=24><img height=550 width=275 src="https://user-images.githubusercontent.com/15203737/74158619-af2c5400-4c1a-11ea-9f7c-3be923dc194e.jpg"
@@ -16,7 +18,7 @@
 
 
 ## Running The Tests
-This android application has been tested on android running on  5.0 - 9.0 and various devices
+This android application has been tested on android running on  5.0 - 12.0 and various devices
 
 ## Deployment
 Any android device
