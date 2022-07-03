@@ -4,6 +4,7 @@
 ## Features:
 * Connect to Mobile Printer
 * Custom text and Edit text to display
+* Print Logo
 
 
 ## Requirements
